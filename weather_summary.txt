@@ -1,0 +1,10 @@
+In Dhaka :
+Humidity had the highest value of value on Sunday.
+Temperature had the highest value of value on Friday.
+Temperature had the lowest value of value on Monday.
+Wind_Speed had the lowest value of value on Monday.
+In Chittagong :
+Humidity had the highest value of value on Sunday.
+Temperature had the highest value of value on Wednesday.
+Temperature had the lowest value of value on Saturday.
+Wind_Speed had the lowest value of value on Friday
